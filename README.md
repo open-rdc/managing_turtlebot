@@ -1,1 +1,4 @@
 # managing_turtlebot
+
+研究室にあるTurtleBot3を管理するためのレポジトリです．
+利用した人はissueにログを残すようにしてください．
